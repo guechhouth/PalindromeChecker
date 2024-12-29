@@ -1,0 +1,70 @@
+body {
+  background-color: black;
+  font-family: 'Press Start 2P', monospace;
+  text-align: center;
+  padding-bottom: 25px;
+
+}
+#logo{
+  width: 220px;
+  height: auto;
+}
+#title{
+  text-align: center;
+  color: white;
+  font-size: 70px;
+}
+#checker-box{
+  background-color: white;
+  width: 400px;
+  height: 120px;
+  padding-top: 10px;
+  border-radius: 15px;
+  box-shadow: 8px 8px 3px rgba(245, 245, 245, 0.6);
+  margin: auto; 
+}
+
+#text-input{
+  color: black;
+  font-weight: bold;
+  height: 25px;
+  width: 230px;
+  font-size: 12px;
+  font-family: 'Press Start 2P', monospace;
+  background-color: lightblue;
+}
+
+#check-btn{
+  background-color: #228B22;
+  border-radius: 5px;
+  color: white;
+  width: 75px;
+  height: 33px;
+  font-size: 12px;
+  font-family: 'Press Start 2P', monospace;
+
+
+}
+#info-box{
+  background-color: white;
+  width: 400px;
+  height: 115px;
+  padding-top: 5px;
+  border-radius: 15px;
+  margin: auto;
+  margin-top: 40px;
+  
+}
+
+#info-text{
+  text-align: justify;
+  color: purple;
+  font-family: 'Press Start 2P', monospace;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 13px;
+}
+#result {
+  padding-top: 8px;
+}
+
